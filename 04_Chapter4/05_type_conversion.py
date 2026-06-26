@@ -20,3 +20,10 @@ d = "12.4"
 d = float(d)
 
 print(d)
+
+# convert int into float
+
+e = 15
+e = float(e)
+
+print(e)
