@@ -27,3 +27,35 @@ e = 15
 e = float(e)
 
 print(e)
+
+
+f = 12
+g = 0
+h = 12.4
+i = 0.0
+j = ""
+k = "hello"
+
+print(bool(f))
+print(bool(g))
+print(bool(h))
+print(bool(i))
+print(bool(j))
+print(bool(k))
+
+# 7 Value → False
+
+# 1. False
+# 2. 0
+# 3. 0.0
+# 4. “”
+# 5. []
+# 6. ()
+# 7. {}
+
+# Implicit Conversion : Implicit type conversion is the process of converting one data type into another data type without any user involvement. It is also known as type casting.
+
+a = 10
+b = (a/2)
+
+print(b) 
