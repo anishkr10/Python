@@ -6,5 +6,4 @@ print(f"Hii My name is {name} and my age is {age}")
 
 # Using Multiple data types in formatted strings
 
-print("Hii My name is",name,"and my age is",age) 
-
+print("Hii My name is",name,"and my age is",age)

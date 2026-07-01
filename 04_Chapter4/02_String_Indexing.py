@@ -17,4 +17,3 @@ print(b[-4]) # Output: N
 #Checking both positive and negative indexing
 c = "PYTHON"
 print(c[2], c[-3]) # Output: T H
-
