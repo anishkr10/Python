@@ -12,3 +12,4 @@ print(34==45 or 12==23 or 67==69 or 121==121)  # True
 
 print(not 12==15) # True
 print(not 12==12) # False
+
